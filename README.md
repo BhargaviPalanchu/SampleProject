@@ -1,2 +1,3 @@
 # SampleProject
 Just repository
+Hi
